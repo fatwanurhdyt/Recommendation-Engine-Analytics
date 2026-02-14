@@ -195,3 +195,5 @@ $$
 
 **Analytical Insight:**
 - The SVD model yielded an **RMSE of 1.1335**. Considering the explicit rating scale ranges from 1 to 10, this metric demonstrates a **highly robust predictive capability**. It signifies that the model's predictions deviate by an average margin of less than 1.5 points, proving its absolute reliability in accurately anticipating complex user preferences and extracting actionable insights from large-scale datasets.
+
+*Developed by Fatwa Nurhidayat as part of an advanced Machine Learning implementation to demonstrate proficiency in handling large-scale datasets, data mining, and building predictive analytics solutions.*
